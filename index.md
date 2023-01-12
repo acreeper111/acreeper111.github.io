@@ -1,7 +1,5 @@
 # Howie的妙妙屋
 
-<title>Howie的妙妙屋</title>
-<font face="思媛黑体">
 
 [![Page Views Count](https://badges.toozhao.com/badges/01GPHX90Y5T1AJ7GJDX9RKKFB9/green.svg)](https://badges.toozhao.com/stats/01GPHX90Y5T1AJ7GJDX9RKKFB9 "哪天PV达到1145了撅我")
 [![依托答辩](https://img.shields.io/badge/%E4%BE%9D%E6%89%98-%E7%AD%94%E8%BE%A9-%234A412A?style=for-the-badge)](https://www.bilibili.com/video/BV1WG4y1b7np/ "吃史（悲）")
